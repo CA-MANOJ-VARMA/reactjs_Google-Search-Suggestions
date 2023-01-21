@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.css-list-itself {
+  display: flex;
+  list-style-type: none;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.css-button-itself {
+  background-color: transparent;
+  border-width: 0;
+}
+
+.css-arrow-image-itself {
+  width: 20px;
+}
